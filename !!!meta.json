@@ -1,0 +1,68 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.106.0",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "9IQMkpJOagzr",
+			"notePath": [
+				"9IQMkpJOagzr"
+			],
+			"title": "📊 Dashboard TI",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "render",
+			"mime": "",
+			"attributes": [
+				{
+					"type": "relation",
+					"name": "renderNote",
+					"value": "0TGnNXS3eQHD",
+					"isInheritable": false,
+					"position": 10
+				},
+				{
+					"type": "label",
+					"name": "iconClass",
+					"value": "bx bxl-kubernetes",
+					"isInheritable": false,
+					"position": 20
+				}
+			],
+			"attachments": [],
+			"dirFileName": "📊 Dashboard TI",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "0TGnNXS3eQHD",
+					"notePath": [
+						"9IQMkpJOagzr",
+						"0TGnNXS3eQHD"
+					],
+					"title": "⚙️ Dashboard TI - Código",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "code",
+					"mime": "text/jsx",
+					"attributes": [],
+					"dataFileName": "⚙️ Dashboard TI - Código.jsx",
+					"attachments": []
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
